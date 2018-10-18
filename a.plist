@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ohegybtcu.bkt.clouddn.com/111.ipa</string>
+					<string>http://ohegybtcu.bkt.clouddn.com/wnyq.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>tv.i999.jjkk1</string>
+				<string>com.yqjr.shiyue11</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HEALTHk²</string>
+				<string>123</string>
 			</dict>
 		</dict>
 	</array>
